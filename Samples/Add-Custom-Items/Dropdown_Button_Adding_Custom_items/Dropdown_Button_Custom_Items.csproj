@@ -106,31 +106,10 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Images\black.png" />
-    <Resource Include="Images\Button_demo.PNG" />
-    <Resource Include="Images\canada.png" />
-    <Resource Include="Images\china.png" />
     <Resource Include="Images\colors.png" />
-    <Resource Include="Images\flaglarge.png" />
-    <Resource Include="Images\flagsmall.png" />
-    <Resource Include="Images\france.png" />
-    <Resource Include="Images\germany.png" />
-    <Resource Include="Images\india.png" />
-    <Resource Include="Images\isf.png" />
     <Resource Include="Images\orange.png" />
     <Resource Include="Images\red.png" />
     <Resource Include="Images\skyblue.png" />
-    <Resource Include="Images\Syncfusion.png" />
-    <Resource Include="Images\syncfusion1.png" />
-    <Resource Include="Images\Synclogolarge.png" />
-    <Resource Include="Images\uk.png" />
-    <Resource Include="Images\User-Login.png" />
-    <Resource Include="Images\userlarge.png" />
-    <Resource Include="Images\usersmall 1icon.png" />
-    <Resource Include="Images\usersmall icon 2.png" />
-    <Resource Include="Images\usersmall icon 3.png" />
-    <Resource Include="Images\usersmall icon.png" />
-    <Resource Include="Images\usersmall.png" />
-    <Resource Include="Images\yellow.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
